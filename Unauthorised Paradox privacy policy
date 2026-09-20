@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Unauthorised Paradox</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+            color: #222;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 36px;
+        }
+
+        h2 {
+            margin-top: 35px;
+            font-size: 24px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 8px;
+        }
+
+        h3 {
+            margin-top: 25px;
+            font-size: 19px;
+        }
+
+        p {
+            margin: 12px 0;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 6px;
+        }
+
+        .updated {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .important {
+            background: #f0f0f0;
+            border-left: 4px solid #333;
+            padding: 15px;
+            margin: 20px 0;
+        }
+
+        .contact {
+            background: #f7f7f7;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Privacy Policy</h1>
+
+    <p class="updated">
+        <strong>Last Updated:</strong> September 20, 2026
+    </p>
+
+    <p>
+        This Privacy Policy explains how <strong>Unauthorised Paradox</strong>
+        ("the Game", "we", "us", or "our") collects, uses, stores, and handles
+        information when you use or play the Game.
+    </p>
+
+    <p>
+        Unauthorised Paradox is a multiplayer horror game developed for the
+        Meta Horizon Store.
+    </p>
+
+    <p>
+        By using the Game, you acknowledge the practices described in this
+        Privacy Policy.
+    </p>
+
+    <h2>1. Age and Audience</h2>
+
+    <p>
+        Unauthorised Paradox is intended for a broad audience, including
+        children, teenagers, and adults.
+    </p>
+
+    <p>
+        For Meta Horizon, the Game is intended to support the
+        <strong>Mixed Ages</strong> category, which includes users aged
+        10–12 and users aged 13 and older, subject to the minimum age and
+        other requirements applicable in the user's region.
+    </p>
+
+    <p>
+        Users under the minimum age permitted by Meta Horizon are not
+        permitted to use the Game.
+    </p>
+
+    <p>
+        Where required by Meta, the Game may use Meta's age-category
+        functionality to receive an age category rather than the user's
+        exact date of birth.
+    </p>
+
+    <p>
+        Because the Game is intended for Mixed Ages, we will handle
+        age-related information and features in accordance with Meta's
+        requirements and applicable privacy laws.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+
+    <p>
+        The information collected depends on how you use the Game and
+        which features you use.
+    </p>
+
+    <h3>Player and Account Information</h3>
+
+    <p>
+        The Game uses <strong>Microsoft PlayFab</strong> for backend
+        services and may collect or store:
+    </p>
+
+    <ul>
+        <li>PlayFab player/account identifiers</li>
+        <li>Your Meta username or display name, which may be used as your in-game name</li>
+        <li>Game progress</li>
+        <li>Cosmetics</li>
+        <li>Purchased bundles</li>
+        <li>Virtual currency</li>
+        <li>Purchased digital entitlements</li>
+        <li>Moderator or staff status</li>
+        <li>Ban and moderation information</li>
+        <li>Information required to authenticate and maintain your player account</li>
+    </ul>
+
+    <p>
+        We do not intentionally collect your email address through the Game.
+    </p>
+
+    <h3>Technical Information</h3>
+
+    <p>
+        The Game and the services it uses may process technical information
+        such as:
+    </p>
+
+    <ul>
+        <li>IP address</li>
+        <li>Device information</li>
+        <li>Operating system information</li>
+        <li>Game version</li>
+        <li>Network and connection information</li>
+        <li>Error and technical information</li>
+    </ul>
+
+    <p>
+        Some of this information may be processed by third-party services
+        used to operate the Game.
+    </p>
+
+    <h2>3. Voice Chat and Microphone</h2>
+
+    <p>
+        Unauthorised Paradox includes multiplayer voice chat.
+    </p>
+
+    <p>
+        When voice chat is enabled, the Game may access your device's
+        microphone so that your voice can be transmitted live to other
+        players.
+    </p>
+
+    <div class="important">
+        <strong>
+            Voice communications are not intentionally recorded, saved as
+            audio files, or permanently stored by Unauthorised Paradox.
+        </strong>
+    </div>
+
+    <p>
+        The Game may temporarily process microphone audio in memory as
+        required for live voice communication or moderation functionality.
+    </p>
+
+    <p>
+        The Game does not intentionally use voice communications for
+        advertising or sell voice recordings to third parties.
+    </p>
+
+    <h2>4. Voice Moderation and Player Reports</h2>
+
+    <p>
+        Unauthorised Paradox includes moderation systems designed to help
+        enforce the Game's rules.
+    </p>
+
+    <p>
+        Players may report other players for rule violations. When a player
+        makes a report, the Game may send moderation-related text and account
+        information to PlayFab.
+    </p>
+
+    <p>This information may include:</p>
+
+    <ul>
+        <li>Reported player's PlayFab/player ID</li>
+        <li>Reported player's in-game username</li>
+        <li>Room or lobby code</li>
+        <li>Reason for the report</li>
+        <li>Other information reasonably necessary to investigate or enforce the Game's rules</li>
+    </ul>
+
+    <p>
+        Moderation information may be stored in PlayFab so that reports,
+        bans, and other enforcement actions can be managed.
+    </p>
+
+    <p>
+        The report system does not upload the player's voice recording or
+        create an audio file of the voice chat.
+    </p>
+
+    <p>
+        A temporary mute setting may also be held in the Game's memory (RAM)
+        while the mute is active or while the Game is running.
+    </p>
+
+    <h2>5. Multiplayer and Networking</h2>
+
+    <p>
+        The Game uses <strong>Mirror Networking</strong> for multiplayer
+        functionality.
+    </p>
+
+    <p>
+        Information necessary to operate multiplayer sessions may be
+        transmitted between players and/or the Game's networking
+        infrastructure.
+    </p>
+
+    <p>
+        This may include player identifiers, network information, gameplay
+        state, and information necessary to synchronize players within a
+        multiplayer session.
+    </p>
+
+    <p>
+        Mirror is used for multiplayer networking and is not intended to
+        serve as the Game's main player-account database.
+    </p>
+
+    <h2>6. Purchases and Virtual Items</h2>
+
+    <p>
+        Unauthorised Paradox offers optional in-app purchases.
+    </p>
+
+    <p>
+        Depending on the products available, users may purchase:
+    </p>
+
+    <ul>
+        <li>Cosmetics</li>
+        <li>Cosmetic bundles</li>
+        <li>Virtual currency</li>
+        <li>Other digital items or features, including moderator/mod-menu features</li>
+    </ul>
+
+    <p>
+        Some products are intended to be durable purchases, meaning the
+        entitlement can remain associated with a player's account after the
+        Game is uninstalled and later reinstalled.
+    </p>
+
+    <p>
+        Virtual currency may be purchased multiple times.
+    </p>
+
+    <p>
+        Other products, such as certain bundles or moderator features,
+        may be limited to a single purchase.
+    </p>
+
+    <h3>Payment Processing</h3>
+
+    <p>
+        Purchases made through the Meta Horizon Store will use
+        <strong>Meta's Platform In-App Purchase system</strong>.
+    </p>
+
+    <p>
+        We do not intentionally collect or store your complete credit-card
+        number, debit-card number, bank-account information, or other full
+        payment credentials.
+    </p>
+
+    <p>
+        We may receive information necessary to verify and provide a
+        purchase, such as:
+    </p>
+
+    <ul>
+        <li>Product identifier</li>
+        <li>Transaction or purchase identifier</li>
+        <li>Purchase status</li>
+        <li>Player/account identifier</li>
+        <li>Digital entitlement information</li>
+    </ul>
+
+    <h2>7. PlayFab and Saved Purchases</h2>
+
+    <p>
+        The Game uses PlayFab to store player-related information and
+        digital entitlements.
+    </p>
+
+    <p>This may include:</p>
+
+    <ul>
+        <li>Player progress</li>
+        <li>Cosmetics</li>
+        <li>Bundles</li>
+        <li>Virtual currency balances</li>
+        <li>Purchase-related information</li>
+        <li>Moderator status</li>
+        <li>Moderation and ban information</li>
+    </ul>
+
+    <p>
+        This means that uninstalling the Game does not necessarily delete
+        server-side player information.
+    </p>
+
+    <p>
+        If you reinstall the Game and sign in using the same supported
+        account, certain progress or purchased entitlements may be restored.
+    </p>
+
+    <h2>8. Data Deletion</h2>
+
+    <p>
+        You may request deletion of personal information associated with
+        your Game account.
+    </p>
+
+    <p>
+        To request deletion, contact:
+    </p>
+
+    <p>
+        <strong>
+            <a href="mailto:info.kinetixstudios@gmail.com">
+                info.kinetixstudios@gmail.com
+            </a>
+        </strong>
+    </p>
+
+    <p>
+        Your request should include enough information for us to identify
+        the relevant Game account while avoiding unnecessary personal
+        information.
+    </p>
+
+    <p>
+        After verifying the request, we will process the deletion request
+        in accordance with applicable law, Meta's platform requirements,
+        and the capabilities of the services we use.
+    </p>
+
+    <p>
+        Where appropriate, this may include deleting the associated
+        PlayFab player account and associated PlayFab data.
+    </p>
+
+    <p>
+        Deleting an account may permanently remove:
+    </p>
+
+    <ul>
+        <li>Game progress</li>
+        <li>Cosmetics</li>
+        <li>Virtual currency</li>
+        <li>Purchased or earned Game items</li>
+        <li>Moderator features</li>
+        <li>Other account-linked information</li>
+    </ul>
+
+    <p>
+        Purchases or transaction records independently retained by Meta or
+        another payment provider may not be deleted from those companies'
+        systems solely because Game data is deleted from our systems.
+    </p>
+
+    <p>
+        We may retain limited information where required or permitted by
+        law, such as information necessary for fraud prevention, security,
+        dispute resolution, financial or transaction records, legal
+        obligations, or enforcement of legal rights.
+    </p>
+
+    <h2>9. Access and Correction</h2>
+
+    <p>
+        You may contact us at
+        <a href="mailto:info.kinetixstudios@gmail.com">
+            info.kinetixstudios@gmail.com
+        </a>
+        to request access to personal information we hold about you or to
+        request correction of inaccurate information.
+    </p>
+
+    <p>
+        We may need to verify the relevant Game account before processing
+        a request.
+    </p>
+
+    <h2>10. Children's Privacy</h2>
+
+    <p>
+        Because the Game is intended for Mixed Ages, children may use
+        the Game.
+    </p>
+
+    <p>
+        The Game is designed to avoid intentionally requesting unnecessary
+        personal information from children.
+    </p>
+
+    <p>
+        We do not intentionally request a child's:
+    </p>
+
+    <ul>
+        <li>Home address</li>
+        <li>Telephone number</li>
+        <li>Email address</li>
+        <li>Payment-card number</li>
+        <li>Exact date of birth</li>
+    </ul>
+
+    <p>
+        The Game may nevertheless process account, device, network,
+        gameplay, moderation, and purchase-related information necessary
+        to operate the Game.
+    </p>
+
+    <h2>11. Meta Age Information</h2>
+
+    <p>
+        Where the Game uses Meta's age-category functionality, Meta may
+        provide the Game with an age category associated with the current
+        user.
+    </p>
+
+    <p>
+        We use this information only for purposes permitted by Meta's
+        policies and applicable law, such as determining age-appropriate
+        handling of the Game experience.
+    </p>
+
+    <p>
+        We do not intentionally attempt to determine a user's exact age
+        from their voice, appearance, gameplay, or other unrelated
+        information.
+    </p>
+
+    <h2>12. Advertising</h2>
+
+    <p>
+        Unauthorised Paradox does not currently display third-party
+        advertising.
+    </p>
+
+    <p>
+        We do not sell or share player information for targeted advertising
+        purposes.
+    </p>
+
+    <h2>13. Third-Party Services</h2>
+
+    <p>
+        The Game uses third-party services to provide its functionality.
+    </p>
+
+    <h3>Microsoft PlayFab</h3>
+
+    <p>
+        PlayFab provides backend functionality used by the Game, including
+        player data and account-related services.
+    </p>
+
+    <h3>Meta</h3>
+
+    <p>
+        The Game is distributed through the Meta Horizon Store and may use
+        Meta services for platform functionality, age-category information,
+        authentication, purchases, and other supported features.
+    </p>
+
+    <h3>Mirror Networking</h3>
+
+    <p>
+        Mirror Networking is used for multiplayer networking.
+    </p>
+
+    <h3>Discord</h3>
+
+    <p>
+        The Game may include a button or link allowing users to open the
+        Game's Discord server.
+    </p>
+
+    <p>
+        Discord is a separate service. Once you leave the Game and use
+        Discord, Discord's own terms and privacy policy apply.
+    </p>
+
+    <p>
+        We do not receive your Discord account information merely because
+        the Game provides a link to Discord.
+    </p>
+
+    <h2>14. International Data Transfers</h2>
+
+    <p>
+        Because we use services operated by companies such as Microsoft
+        and Meta, information may be processed or stored outside Australia.
+    </p>
+
+    <p>
+        We will take reasonable steps required by applicable law when
+        handling personal information through overseas service providers.
+    </p>
+
+    <h2>15. Data Security</h2>
+
+    <p>
+        We take reasonable technical and organizational measures to protect
+        information associated with the Game against unauthorized access,
+        misuse, loss, alteration, or disclosure.
+    </p>
+
+    <p>
+        However, no internet-based service, network, or electronic storage
+        system can be guaranteed to be completely secure.
+    </p>
+
+    <h2>16. Data Retention</h2>
+
+    <p>
+        We retain information for as long as reasonably necessary for the
+        purposes described in this Privacy Policy, including:
+    </p>
+
+    <ul>
+        <li>Operating the Game</li>
+        <li>Maintaining player accounts</li>
+        <li>Saving progress</li>
+        <li>Providing purchased content</li>
+        <li>Processing and verifying purchases</li>
+        <li>Moderation and enforcement</li>
+        <li>Fraud and cheating prevention</li>
+        <li>Security</li>
+        <li>Troubleshooting</li>
+        <li>Legal obligations</li>
+        <li>Resolving disputes</li>
+    </ul>
+
+    <p>
+        When information is no longer required, we may delete or
+        de-identify it where required by applicable law and subject to
+        the capabilities and retention practices of third-party services.
+    </p>
+
+    <h2>17. Australian Privacy</h2>
+
+    <p>
+        The developer of Unauthorised Paradox is based in Australia.
+    </p>
+
+    <p>
+        Where the Australian Privacy Act 1988 and Australian Privacy
+        Principles apply to our handling of personal information, we will
+        manage personal information in accordance with those requirements.
+    </p>
+
+    <h2>18. Privacy Complaints</h2>
+
+    <p>
+        For privacy questions, concerns, or complaints, contact:
+    </p>
+
+    <div class="contact">
+        <strong>
+            <a href="mailto:info.kinetixstudios@gmail.com">
+                info.kinetixstudios@gmail.com
+            </a>
+        </strong>
+    </div>
+
+    <p>
+        We will review privacy complaints and attempt to resolve them.
+    </p>
+
+    <p>
+        Where applicable, individuals may also contact the
+        <strong>Office of the Australian Information Commissioner (OAIC)</strong>
+        or another relevant privacy regulator.
+    </p>
+
+    <h2>19. Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy when:
+    </p>
+
+    <ul>
+        <li>The Game adds or removes features</li>
+        <li>We change the information we collect</li>
+        <li>We add or remove third-party services</li>
+        <li>Our purchasing system changes</li>
+        <li>Applicable laws or platform requirements change</li>
+    </ul>
+
+    <p>
+        The date at the top of this policy will be updated whenever
+        the policy changes.
+    </p>
+
+    <h2>20. Contact</h2>
+
+    <div class="contact">
+        <p><strong>Game:</strong> Unauthorised Paradox</p>
+        <p><strong>Developer:</strong> Kinetix Studios</p>
+        <p><strong>Country:</strong> Australia</p>
+        <p>
+            <strong>Privacy Email:</strong>
+            <a href="mailto:info.kinetixstudios@gmail.com">
+                info.kinetixstudios@gmail.com
+            </a>
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
